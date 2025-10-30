@@ -10,7 +10,7 @@ NEOVIM_VERSION ?= v0.11.4
 NERDFONT_VERSION ?= v3.4.0
 GOLANG_VERSION ?= 1.25.3
 
-NEOVIM_CONFIG_REPO ?= git@github.com:leandrohsilveira/nvim-config.git
+NEOVIM_CONFIG_REPO ?= git@github.com:lhsilveira-ilia/nvim-config.git
 FONT_FILENAME ?= FiraCode
 
 install: configs_sync devscripts zellij neovim
